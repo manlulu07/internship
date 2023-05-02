@@ -1,4 +1,4 @@
-## Please use "g++ -std=c++17 internship main.cpp -ljsoncpp" to compile the code.
+Please use "g++ -std=c++17 internship main.cpp -ljsoncpp" to compile the code.
 # Dynatrace Gdansk Summer Internship 2023 C++ Assignment
 ## The Theory
 ### EOL
