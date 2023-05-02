@@ -1,0 +1,3 @@
+[submodule "project/project/dynatraceintern"]
+	path = project/project/dynatraceintern
+	url = https://github.com/manlulu07/dynatraceintern.git
